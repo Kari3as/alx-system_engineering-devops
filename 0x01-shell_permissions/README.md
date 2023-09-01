@@ -6,3 +6,4 @@ empty file
 exceute permission
 Multiple permissions
 Everybody
+Other users: all the permissions
