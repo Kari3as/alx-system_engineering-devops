@@ -7,3 +7,4 @@ exceute permission
 Multiple permissions
 Everybody
 Other users: all the permissions
+set the mode of the file hello
