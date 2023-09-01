@@ -4,3 +4,4 @@ print groups
 new owner
 empty file
 exceute permission
+Multiple permissions
